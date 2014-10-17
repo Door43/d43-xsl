@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[xsl:home|Door43 (xsl)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-xsl|d43-xsl repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-xsl/archive/master.zip|d43-xsl.zip]]
+
+**Recent Changes**
+{{changes>ns = xsl}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/xsl|Ethnologue data]]
+
